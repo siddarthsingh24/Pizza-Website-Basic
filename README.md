@@ -1,1 +1,1 @@
-<img width="952" alt="image" src="https://github.com/siddarthsingh24/Pizza-Website-Basic/assets/96046931/015110e6-a509-42a5-8635-5973a4e87ad3">
+![image](https://github.com/siddarthsingh24/Pizza-Website-Basic/assets/96046931/f58486ab-4900-4fd5-bce2-60001a993894)
